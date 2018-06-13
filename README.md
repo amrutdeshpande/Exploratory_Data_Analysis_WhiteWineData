@@ -13,5 +13,4 @@ A thorough study on the variables and its impact on the prediction of the qualit
 
     Finally, to understand and perform a perfect analysis i would like to dig deeper into the white wine making process and see if i can include additional variables which might have been left out and that can interest me in my analysis. This will further help in overcoming the model building process and generate a good predicitve model for this dataset. I also want to spend more time on model re-specification by transforming the variables. After finalising and keying down the transformations through regression i want to get the validation done before finalising on a Model to work for.
 
-
     I have definitely increased my thought process and reasoning abilities in concluding my results in better way. In this way i can work on any dataset now and perform Exploratory Data Analysis. I will keep working on different datasets in future to keep improving as a Data analyst.
